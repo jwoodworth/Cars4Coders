@@ -1,0 +1,18 @@
+.bg-dark{
+    background-color: pink;
+}
+
+ul > li > a{
+	background-color: white;
+	border-right: .1em solid;
+	font-size: 1.5em;
+	height:2em;
+	text-align: center;
+	width: 6em;
+}
+
+.navbar-brand{
+	font-size: 2em;
+	font-weight: 600;
+}
+
