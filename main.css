@@ -13,6 +13,7 @@ deck-row{
 }
 
 .contain-fix{
+    margin: 0 auto;
     padding: 0;
 }
 
